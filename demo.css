@@ -1,0 +1,27 @@
+*{
+    border:solid 2px gray;
+    padding: 50px;
+    margin: 100px;
+}
+body{
+    color: red;
+    text-align: center;
+}
+section{
+    color: blue;
+}
+p{
+    color: rgb(10, 114, 114);
+}
+section p{
+    color: salmon;
+}
+.section1{
+    background-color: wheat;
+}
+/* This is demo file */
+.box{
+    border: solid 2px gray;
+    background-color: lightcyan;
+    width: 700px;
+}
